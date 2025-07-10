@@ -26,7 +26,7 @@ A Python web scraper for extracting ISEF (International Science and Engineering 
 
 ## Running the Scraper
 
-1. **Navigate to the scraper directory**:
+1. **Navigate to the scraper directory, change it to your file path**:
    ```bash
    cd /path/to/isef_scraper
    ```
